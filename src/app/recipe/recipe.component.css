@@ -1,0 +1,25 @@
+.example-container {
+    width: 100%;
+    height: 100%;
+    padding: 1%;
+    border: 0px solid #555;
+  }
+
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+.example-card {
+  height: 20vw;
+  width: 20vw;
+}
+
+.example-header-image {
+    background-size: cover;
+    background-image: url("https://image.flaticon.com/icons/svg/215/215824.svg");
+}
+
+.mat-sidenav-container
+{
+    height:100vh !important; /* or 100% */
+}
